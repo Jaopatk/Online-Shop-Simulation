@@ -1,5 +1,3 @@
-//Pacharada Chantaratan 6213165, Pakkapond Pipattanasookmongkol 6213207
-
 import java.io.*;
 import java.util.*;
 
