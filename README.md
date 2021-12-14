@@ -1,5 +1,8 @@
 # Online-Shop-Simulation
-Online Shop Simulation using Java
+Online Shop Simulation 
+using Java to calculate total bill from product prices and postage price from each customer's order 
+print total bills of all customers and productssorted in increasing order of the bills/sales
+
 
 <img src="https://user-images.githubusercontent.com/95932835/145974553-941cd844-73f1-4c0f-b69e-d731fcbd4fa7.png" width="220"><img src="https://user-images.githubusercontent.com/95932835/145973701-b7687038-086c-4810-94c1-a94454d28530.png" width="400"><img src="https://user-images.githubusercontent.com/95932835/145973914-d447fb59-8138-4b01-a33a-7cedb3110ef0.png" width="98.5">
 
