@@ -1,0 +1,5 @@
+bluetooth speaker, 1400, 300
+clip lens,          250, 180
+mini projector,    2800, 700
+power bank,        1250, 220
+universal adapter,  200, 140
